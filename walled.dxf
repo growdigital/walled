@@ -489,19 +489,19 @@ $SKPOLY
   9
 $TDCREATE
  40
-2459633.788965845
+2459633.807102766
   9
 $TDUCREATE
  40
-2459633.788965845
+2459633.807102766
   9
 $TDUPDATE
  40
-2459633.788965995
+2459633.807102836
   9
 $TDUUPDATE
  40
-2459633.788965995
+2459633.807102836
   9
 $TDINDWG
  40
@@ -929,7 +929,7 @@ $PSTYLEMODE
   9
 $FINGERPRINTGUID
   2
-{0d53c267-779c-9e4e-9031-67fc1344d5af}
+{a9c432fd-69c8-f84e-8825-2293c9747975}
   9
 $VERSIONGUID
   2
@@ -1345,9 +1345,9 @@ AcDbViewportTableRecord
  21
 1.0
  12
-139.2796296585533
+63.67175491681775
  22
-49.33344453883052
+36.95287178151997
  13
 0.0
  23
@@ -1373,7 +1373,7 @@ AcDbViewportTableRecord
  37
 0.0
  40
-159.3942518454484
+396.6239047520662
  41
 1.748544819557625
  42
@@ -3597,9 +3597,9 @@ AcDbLayerTableRecord
   2
 Old 1843-1882
  70
-     1
+     0
  62
-    -6
+     6
 420
  16711935
   6
@@ -3625,7 +3625,7 @@ AcDbLayerTableRecord
   2
 xxMap Contour
  70
-     1
+     5
  62
   -178
 420
@@ -3737,9 +3737,9 @@ AcDbLayerTableRecord
   2
 Old 1888-1913
  70
-     0
+     1
  62
-     6
+    -6
 420
  16711935
   6
@@ -3793,7 +3793,7 @@ AcDbLayerTableRecord
   2
 xxMap 1843-1882
  70
-     1
+     5
  62
   -178
 420
@@ -3905,7 +3905,7 @@ AcDbLayerTableRecord
   2
 xSatellite
  70
-     1
+     5
  62
   -178
 420
@@ -4045,7 +4045,7 @@ AcDbLayerTableRecord
   2
 xxMap 1888-1913
  70
-     1
+     5
  62
   -178
 420
@@ -10959,7 +10959,7 @@ AcDbRasterImageDef
  90
         0
   1
-/Users/fgw/Work/Walled/cad/map-old.jpg
+/Users/fgw/Work/Walled/cad/map-1843-1882.jpg
  10
 1693.0
  20
@@ -19685,7 +19685,7 @@ AcDbXrecord
 280
      1
  40
-159.3942518454484
+396.6239047520662
   0
 XRECORD
   5
@@ -19703,7 +19703,7 @@ AcDbXrecord
 280
      1
  40
-278.7079933316223
+693.5146739669423
   0
 DICTIONARY
   5
