@@ -97,7 +97,7 @@ Standard
   9
 $CLAYER
   8
-Plant - Tree
+xxMap Contour
   9
 $CELTYPE
   6
@@ -489,19 +489,19 @@ $SKPOLY
   9
 $TDCREATE
  40
-2459660.600573391
+2459660.614912477
   9
 $TDUCREATE
  40
-2459660.600573391
+2459660.614912477
   9
 $TDUPDATE
  40
-2459660.600574074
+2459660.614913287
   9
 $TDUUPDATE
  40
-2459660.600574074
+2459660.614913287
   9
 $TDINDWG
  40
@@ -929,7 +929,7 @@ $PSTYLEMODE
   9
 $FINGERPRINTGUID
   2
-{f57bb53f-9381-ca4a-8ea1-43342d25e60d}
+{62895a0b-981c-f941-98e9-4e57a11b13d6}
   9
 $VERSIONGUID
   2
@@ -1345,9 +1345,9 @@ AcDbViewportTableRecord
  21
 1.0
  12
-118.0021310124572
+113.5482207846292
  22
-64.68088023192124
+96.06940201475561
  13
 0.0
  23
@@ -1373,7 +1373,7 @@ AcDbViewportTableRecord
  37
 0.0
  40
-105.9073875844832
+88.25615632040268
  41
 1.748544819557625
  42
@@ -3577,7 +3577,7 @@ Plant - Shrub
   6
 Continuous
 370
-    -3
+    25
 390
 3847
 347
@@ -3605,7 +3605,7 @@ Plant label
   6
 Continuous
 370
-    -3
+    25
 390
 3847
 347
@@ -3633,7 +3633,7 @@ Buildings
   6
 Continuous
 370
-    -3
+    25
 390
 3847
 347
@@ -3661,7 +3661,7 @@ Plant - Annual
   6
 Continuous
 370
-    -3
+    25
 390
 3847
 347
@@ -3689,7 +3689,7 @@ Plant - Perennial
   6
 Continuous
 370
-    -3
+    25
 390
 3847
 347
@@ -3717,7 +3717,7 @@ Old 1888-1913
   6
 Continuous
 370
-    -3
+    25
 390
 3847
 347
@@ -3745,7 +3745,7 @@ xxMap 1888-1913
   6
 Continuous
 370
-    -3
+    25
 390
 3847
 347
@@ -3773,7 +3773,7 @@ xSatellite
   6
 Continuous
 370
-    -3
+    25
 390
 3847
 347
@@ -3801,7 +3801,7 @@ Plant - Windbreak
   6
 Continuous
 370
-    -3
+    25
 390
 3847
 347
@@ -3829,7 +3829,7 @@ Legend
   6
 Continuous
 370
-    -3
+    25
 390
 3847
 347
@@ -3857,7 +3857,7 @@ Plant - Tree
   6
 Continuous
 370
-    -3
+    25
 390
 3847
 347
@@ -3885,7 +3885,7 @@ xxMap 1843-1882
   6
 Continuous
 370
-    -3
+    25
 390
 3847
 347
@@ -3913,7 +3913,7 @@ Utilities
   6
 Continuous
 370
-    -3
+    25
 390
 3847
 347
@@ -3941,7 +3941,7 @@ xxMap Contour
   6
 Continuous
 370
-    -3
+    25
 390
 3847
 347
@@ -3969,7 +3969,7 @@ Ground cover
   6
 Continuous
 370
-    -3
+    25
 390
 3847
 347
@@ -3997,7 +3997,7 @@ Water
   6
 Continuous
 370
-    -3
+    25
 390
 3847
 347
@@ -4025,7 +4025,7 @@ Old 1843-1882
   6
 Continuous
 370
-    -3
+    25
 390
 3847
 347
@@ -4109,7 +4109,7 @@ Structures
   6
 Continuous
 370
-    -3
+    25
 390
 3847
 347
@@ -4137,7 +4137,7 @@ Plant - Climber
   6
 Continuous
 370
-    -3
+    25
 390
 3847
 347
@@ -76985,7 +76985,7 @@ AcDbBlockReference
   2
 Tree - Juglans x bisbyi
  10
-153.0
+107.0
  20
 126.0
  30
@@ -77005,9 +77005,9 @@ AcDbBlockReference
   2
 Tree - Juglans cinerea
  10
-107.0262977701505
+153.0
  20
-126.1055026615703
+126.0
  30
 0.0
   0
@@ -87247,7 +87247,7 @@ AcDbXrecord
 280
      1
  40
-105.9073875844832
+88.25615632040268
   0
 XRECORD
   5
@@ -87265,7 +87265,7 @@ AcDbXrecord
 280
      1
  40
-185.1838139137297
+154.319844928108
   0
 DICTIONARY
   5
